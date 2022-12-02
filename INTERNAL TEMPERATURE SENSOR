@@ -92,8 +92,8 @@ int main(void)
     TB0CCR0 = 65535;
     TB0CTL = TBSSEL__ACLK | MC__UP;  // ACLK, UP mode
 
-    P1SEL0 |=BIT1;
-    P1SEL1 |=BIT1;
+   // P1SEL0 |=BIT1;
+   //P1SEL1 |=BIT1;
 
     // Configure ADC - Pulse sample mode; ADCSC trigger
     ADCCTL0 |= ADCSHT_8 | ADCON;                                  // ADC ON,temperature sample period>30us
