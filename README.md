@@ -1,4 +1,4 @@
-# LAB_5
+# LAB 5
 
 # Question 1
 
