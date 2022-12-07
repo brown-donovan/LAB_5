@@ -23,7 +23,7 @@ e.) https://github.com/brown-donovan/LAB_5/blob/main/INTERNAL%20TEMPERATURE%20SE
 
 # Question 2
 
-a.) 
+a.) In part 1, not only was the internal temperature sensor used, but the DHT 11 temperature sensor was used as well. The plot below shows the change in temprature as the number of samples increase. The temperature readings of the DHT 11 were in units of farenheit. After the first sample, the initial temperature of 71.8 degrees decreased to 64 degrees and remains constant for five consecutive samples. After the sixth sample, the temperature decreases again from 64 degrees to 61 degrees. 
 
 <img width="960" alt="DHT 11 GRAPH (FARENHEIT)" src="https://user-images.githubusercontent.com/98994111/205361845-5a60f775-d7bb-4bc4-9315-b82f83b7c2c0.png">
 
@@ -47,6 +47,9 @@ d.) The following figure shows the schematic used for hooking up the DHT11 Senso
 
 e.) https://github.com/brown-donovan/LAB_5/blob/main/DHT%2011%20TEMPERATURE%20SENSOR
 
+
+CONTRIBUTION CHART: 
+<img width="282" alt="Screenshot 2022-12-06 195508" src="https://user-images.githubusercontent.com/98994111/206061271-60eaa1e5-e6fe-4c35-9218-4ebf10ce830a.png">
 
 
 
