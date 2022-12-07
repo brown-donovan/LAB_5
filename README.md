@@ -1,5 +1,3 @@
-# LAB 5
-
 # Question 1
 
 a.) In the first part of this lab, we are required to utilize the internal temperature sensor of MSP430FR2355 microcontroller in order to read temperature in the lab. To carry this out, we use the ADC capabilities of the MSP430 by using channel 12 in our code. ADCMEM0 was then used to read the value of the internal temperature sensor. The following plot shows the temperature over time after running the code:
