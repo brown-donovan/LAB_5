@@ -49,6 +49,7 @@ e.) https://github.com/brown-donovan/LAB_5/blob/main/DHT%2011%20TEMPERATURE%20SE
 
 
 CONTRIBUTION CHART: 
+
 <img width="282" alt="Screenshot 2022-12-06 195508" src="https://user-images.githubusercontent.com/98994111/206061271-60eaa1e5-e6fe-4c35-9218-4ebf10ce830a.png">
 
 
