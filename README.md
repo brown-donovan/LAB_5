@@ -21,6 +21,10 @@ d.) Since the internal temperature sensor was used for this portion of the lab, 
 e.) https://github.com/brown-donovan/LAB_5/blob/main/INTERNAL%20TEMPERATURE%20SENSOR
 
 
+
+
+
+
 Q2.)
 
 a.) 
