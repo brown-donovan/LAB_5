@@ -4,7 +4,7 @@ a.) In the first part of this lab, we are required to utilize the internal tempe
 
 <img width="959" alt="INTERNAL TEMPERATURE SENSOR (FARENHEIT)" src="https://user-images.githubusercontent.com/98994111/205361908-74285ed0-cc6c-4f5b-98b7-97bf174b852f.png">
 
-b.) The following images show the Level 0 and Level 1 diagrams used for obtaining the readings for the DHT11:
+b.) The following images show the Level 0 and Level 1 diagrams used for obtaining the readings for the internal temperature sensor:
 
 Level 0:
 ![image](https://user-images.githubusercontent.com/85361948/206054379-ff4ce63a-484e-400f-9e9b-2e9e8c1b260f.png)
