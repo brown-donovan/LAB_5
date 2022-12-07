@@ -18,7 +18,7 @@ c.) The following figure shows the UML diagram created prior to writing the code
 
 d.) Since the internal temperature sensor was used for this portion of the lab, no schematic is implemented.
 
-e.) Refer to the code above for the code used with comments. 
+e.) https://github.com/brown-donovan/LAB_5/blob/main/INTERNAL%20TEMPERATURE%20SENSOR
 
 
 Q2.)
@@ -39,7 +39,10 @@ c.) The following figure shows the UML diagram created prior to writing the code
 
 d.) The following figure shows the schematic used for hooking up the DHT11 Sensor to the MSP430 microcontroller:
 
-e.) Refer to the code above for the code used with comments.
+![image](https://user-images.githubusercontent.com/85361948/206058470-c6109c32-ed37-41a7-aaea-6616ea48980e.png)
+
+
+e.) https://github.com/brown-donovan/LAB_5/blob/main/DHT%2011%20TEMPERATURE%20SENSOR
 
 
 
